@@ -55,7 +55,7 @@ a {
 
 <section>
   <h2>About Me</h2>
-  <p>I am a BCA student interested in programming and web development.</p>
+  <p>I am a BCA student interested in programming and web development. who is enthusiastic about technology and continuous learning. I enjoy exploring programming languages and building my knowledge in web development. My goal is to improve my skills and build a strong career.</p>
 </section>
 
 <section>
